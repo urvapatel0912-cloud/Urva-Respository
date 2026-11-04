@@ -10,4 +10,4 @@ avg = sum / 3
 
 print("The sum is: ", sum)
 print("The product is: ", product)
-print("The product is: ", avg)
+print("The Avrage is: ", avg)

@@ -12,5 +12,4 @@ total_grams = total_lots * 13.3
 kg = int(total_grams // 1000)
 grams = total_grams % 1000
 
-print("The weight in modern units is", kg, "kg and", grams, "g.")
-
+print(f"The weight in modern units is {kg} kg and {grams:.2f} grams.")
