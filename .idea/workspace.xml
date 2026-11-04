@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b8dc14-0fed-40da-a100-be4ea1dd6935" name="Changes" comment="I have completed my homework of Lecture 2" />
+    <list default="true" id="89b8dc14-0fed-40da-a100-be4ea1dd6935" name="Changes" comment="I have completed my homework of Lecture 2">
+      <change afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +27,20 @@
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;urvapatel0912-cloud&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "urvapatel0912-cloud",
+      "author": "urvapatel0912-cloud"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "urvapatel0912-cloud",
+    "author": "urvapatel0912-cloud"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/urvapatel0912-cloud/Urva-Respository&quot;,
@@ -35,61 +49,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000975849306775" />
-      <entry key="MS500" value="1.217661410182088" />
-      <entry key="S2" value="2.741658357954745" />
-      <entry key="S5" value="4.322931160803703" />
-      <entry key="S10" value="5.601605190829718" />
-      <entry key="S30" value="7.398808274674739" />
-      <entry key="S60" value="8.113244352488941" />
-      <entry key="M2" value="8.532156056516563" />
-      <entry key="M5" value="8.843111328397397" />
-      <entry key="M10" value="10.207102088351022" />
-      <entry key="M15" value="13.47999433620052" />
-      <entry key="M30" value="26.555317510248145" />
-      <entry key="H1" value="50.90993741571097" />
-      <entry key="H2" value="92.0389982983638" />
-      <entry key="H4" value="162.41847120575454" />
-      <entry key="D1" value="362.8883972094516" />
-      <entry key="W1" value="432.6501420835705" />
+      <entry key="MS100" value="1.0000059035065012" />
+      <entry key="MS500" value="1.0968134839760808" />
+      <entry key="S2" value="2.0296051066176695" />
+      <entry key="S5" value="4.023567711753129" />
+      <entry key="S10" value="6.3187025564515915" />
+      <entry key="S30" value="9.775702284873159" />
+      <entry key="S60" value="11.196413290537414" />
+      <entry key="M2" value="12.042737146636581" />
+      <entry key="M5" value="12.638477638606378" />
+      <entry key="M10" value="14.09089540993056" />
+      <entry key="M15" value="17.380921892580876" />
+      <entry key="M30" value="30.462727968144" />
+      <entry key="H1" value="54.82354959585638" />
+      <entry key="H2" value="95.96195080437082" />
+      <entry key="H4" value="166.35098380923895" />
+      <entry key="D1" value="366.86339869455514" />
+      <entry key="W1" value="436.64588725335966" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="1.1012211515997356E-171" />
-      <entry key="S10" value="3.318465235014127E-86" />
-      <entry key="S30" value="3.213505819590521E-29" />
-      <entry key="S60" value="5.668779250941526E-15" />
-      <entry key="M2" value="7.52912959839418E-8" />
-      <entry key="M5" value="0.0014148093299256803" />
-      <entry key="M10" value="0.03762192823687507" />
-      <entry key="M15" value="0.11288140962773907" />
-      <entry key="M30" value="0.3843833285725276" />
-      <entry key="H1" value="1.040262246111506" />
-      <entry key="H2" value="2.4474599511537964" />
-      <entry key="H4" value="5.027496477410191" />
-      <entry key="D1" value="12.724899619378244" />
-      <entry key="W1" value="15.471596507638282" />
+      <entry key="S5" value="3.3664599945844215E-172" />
+      <entry key="S10" value="1.8347915398171054E-86" />
+      <entry key="S30" value="2.637518875214361E-29" />
+      <entry key="S60" value="5.135678022631829E-15" />
+      <entry key="M2" value="7.166364505543821E-8" />
+      <entry key="M5" value="0.0013871376629175146" />
+      <entry key="M10" value="0.03725219562768734" />
+      <entry key="M15" value="0.11214062535745818" />
+      <entry key="M30" value="0.38311999467338986" />
+      <entry key="H1" value="1.0385513496340284" />
+      <entry key="H2" value="2.4454464811114844" />
+      <entry key="H4" value="5.02542804799031" />
+      <entry key="D1" value="12.724026916299987" />
+      <entry key="W1" value="15.471444920624092" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9139194016617816" />
-      <entry key="MS500" value="1.193494262821346" />
-      <entry key="S2" value="2.595518620240935" />
-      <entry key="S5" value="4.1019531088921" />
-      <entry key="S10" value="5.375206879774571" />
-      <entry key="S30" value="7.251993243142151" />
-      <entry key="S60" value="8.024200019896975" />
-      <entry key="M2" value="8.482928727933121" />
-      <entry key="M5" value="8.823498881316258" />
-      <entry key="M10" value="10.232655430460335" />
-      <entry key="M15" value="13.582727355075104" />
-      <entry key="M30" value="26.93080732038591" />
-      <entry key="H1" value="51.94205761718451" />
-      <entry key="H2" value="94.47857649778683" />
-      <entry key="H4" value="167.43791552095885" />
-      <entry key="D1" value="375.60967185092153" />
-      <entry key="W1" value="448.1211007925846" />
+      <entry key="MS100" value="0.9201926841615778" />
+      <entry key="MS500" value="1.0773874394584604" />
+      <entry key="S2" value="2.0110832798766016" />
+      <entry key="S5" value="3.947686930991939" />
+      <entry key="S10" value="6.187768207946617" />
+      <entry key="S30" value="9.65273836390509" />
+      <entry key="S60" value="11.114426157876922" />
+      <entry key="M2" value="11.995200673796623" />
+      <entry key="M5" value="12.618970748160836" />
+      <entry key="M10" value="14.116057650097178" />
+      <entry key="M15" value="17.482887195839997" />
+      <entry key="M30" value="30.836936801909644" />
+      <entry key="H1" value="55.853948828829644" />
+      <entry key="H2" value="98.39951027963015" />
+      <entry key="H4" value="171.36835713705761" />
+      <entry key="D1" value="379.5837999028535" />
+      <entry key="W1" value="452.1166942417883" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -164,7 +178,7 @@
       <workItem from="1793721811805" duration="390000" />
       <workItem from="1793788900076" duration="3265000" />
       <workItem from="1793795900407" duration="2653000" />
-      <workItem from="1793823717788" duration="329000" />
+      <workItem from="1793823717788" duration="1667000" />
     </task>
     <task id="LOCAL-00001" summary="I have completed my homework of Lecture 1 and 2">
       <option name="closed" value="true" />
@@ -190,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793824039275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I have completed my homework of Lecture 2">
+      <option name="closed" value="true" />
+      <created>1793824269173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1793824269173</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,12 +235,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793718855160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793825005849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_5.coverage" NAME="ASS 5 Coverage Results" MODIFIED="1793792804213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
     <SUITE FILE_PATH="coverage/Py$wile_loops.coverage" NAME="wile loops Coverage Results" MODIFIED="1793800032902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793792446296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
-    <SUITE FILE_PATH="coverage/Py$ASS_1.coverage" NAME="ASS 1 Coverage Results" MODIFIED="1793697416291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lec 2" />
-    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793697944130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793825047176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_1.coverage" NAME="ASS 1 Coverage Results" MODIFIED="1793824848721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793824909891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_6.coverage" NAME="ASS 6 Coverage Results" MODIFIED="1793688944950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lec 1" />
   </component>
 </project>
