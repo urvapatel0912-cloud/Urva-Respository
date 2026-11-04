@@ -172,7 +172,7 @@
       <workItem from="1793721811805" duration="390000" />
       <workItem from="1793788900076" duration="3265000" />
       <workItem from="1793795900407" duration="2653000" />
-      <workItem from="1793823717788" duration="2025000" />
+      <workItem from="1793823717788" duration="2797000" />
     </task>
     <task id="LOCAL-00001" summary="I have completed my homework of Lecture 1 and 2">
       <option name="closed" value="true" />
@@ -230,11 +230,30 @@
       <option name="project" value="LOCAL" />
       <updated>1793825695530</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="I have completed Lecture 2 homework">
+      <option name="closed" value="true" />
+      <created>1793825950460</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1793825950460</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I have completed my homework of Lecture 1 and 2" />
