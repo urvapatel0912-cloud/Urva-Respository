@@ -1,9 +1,9 @@
 fisher = int(input("Enter the size of zander : "))
 
-if int(42) >= fisher:
+if 42 >= fisher:
     print("Release this zander back into the lake.")
 
-elif int(42) <= fisher:
+elif 42 <= fisher:
     print("The zander is bigger than the limit.")
 
 size=42-fisher
