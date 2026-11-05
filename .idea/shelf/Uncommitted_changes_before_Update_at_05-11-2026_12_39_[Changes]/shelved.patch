@@ -1,0 +1,541 @@
+Index: HOME WORK/LESSON 1/Lec 2/ASS 1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>fisher = int(input(\"Enter the size of zander : \"))\r\n\r\nif 42 >= fisher:\r\n    print(\"Release this zander back into the lake.\")\r\n\r\nelif 42 <= fisher:\r\n    print(\"The zander is bigger than the limit.\")\r\n\r\nsize= 42-fisher\r\nprint(\"This fish is shorter than the limit is about :\",size,\"cm\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/HOME WORK/LESSON 1/Lec 2/ASS 1.py b/HOME WORK/LESSON 1/Lec 2/ASS 1.py
+--- a/HOME WORK/LESSON 1/Lec 2/ASS 1.py	(revision 923ce3c3cfbbaee2d1913a6f76f18a6d61545a15)
++++ b/HOME WORK/LESSON 1/Lec 2/ASS 1.py	(date 1793875165933)
+@@ -1,9 +1,9 @@
+ fisher = int(input("Enter the size of zander : "))
+ 
+-if 42 >= fisher:
++if fisher <= 42:
+     print("Release this zander back into the lake.")
+ 
+-elif 42 <= fisher:
++elif fisher >= 42:
+     print("The zander is bigger than the limit.")
+ 
+ size= 42-fisher
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"ALL\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"89b8dc14-0fed-40da-a100-be4ea1dd6935\" name=\"Changes\" comment=\"completed task 2\">\r\n      <change beforePath=\"$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 1.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 1.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ChangesViewManager\">\r\n    <option name=\"groupingKeys\">\r\n      <option value=\"directory\" />\r\n      <option value=\"repository\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"INCOMING_COMMITS_CHECK_STRATEGY\" value=\"FETCH\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"history\": [\r\n    {\r\n      \"state\": \"OPEN\",\r\n      \"assignee\": \"urvapatel0912-cloud\",\r\n      \"author\": \"urvapatel0912-cloud\"\r\n    }\r\n  ],\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"urvapatel0912-cloud\",\r\n    \"author\": \"urvapatel0912-cloud\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/urvapatel0912-cloud/Urva-Respository&quot;,\r\n    &quot;accountId&quot;: &quot;26ed6611-1f9d-4261-86a7-c250b10b6e21&quot;\r\n  }\r\n}</component>\r\n  <component name=\"NextEditCompletionFeaturesState\">\r\n    <decayedCancelled>\r\n      <entry key=\"MS100\" value=\"1.0000388965035194\" />\r\n      <entry key=\"MS500\" value=\"1.1320380748828243\" />\r\n      <entry key=\"S2\" value=\"1.937416564940527\" />\r\n      <entry key=\"S5\" value=\"3.045472517001917\" />\r\n      <entry key=\"S10\" value=\"3.818438833660346\" />\r\n      <entry key=\"S30\" value=\"4.5481607712846905\" />\r\n      <entry key=\"S60\" value=\"4.765870760528394\" />\r\n      <entry key=\"M2\" value=\"4.885408876954955\" />\r\n      <entry key=\"M5\" value=\"5.164678254873567\" />\r\n      <entry key=\"M10\" value=\"6.328336390741714\" />\r\n      <entry key=\"M15\" value=\"8.352484908320593\" />\r\n      <entry key=\"M30\" value=\"17.82984087572565\" />\r\n      <entry key=\"H1\" value=\"40.31959844836493\" />\r\n      <entry key=\"H2\" value=\"82.03128359268369\" />\r\n      <entry key=\"H4\" value=\"154.18556578370104\" />\r\n      <entry key=\"D1\" value=\"366.4784656180745\" />\r\n      <entry key=\"W1\" value=\"442.37975635519257\" />\r\n    </decayedCancelled>\r\n    <decayedSelected>\r\n      <entry key=\"MS100\" value=\"0.0\" />\r\n      <entry key=\"MS500\" value=\"0.0\" />\r\n      <entry key=\"S2\" value=\"0.0\" />\r\n      <entry key=\"S5\" value=\"4.9E-324\" />\r\n      <entry key=\"S10\" value=\"1.369217248550177E-162\" />\r\n      <entry key=\"S30\" value=\"1.1104289791614015E-54\" />\r\n      <entry key=\"S60\" value=\"1.0537689401198918E-27\" />\r\n      <entry key=\"M2\" value=\"3.2461807406857256E-14\" />\r\n      <entry key=\"M5\" value=\"4.022991219943974E-6\" />\r\n      <entry key=\"M10\" value=\"0.0020061649360630903\" />\r\n      <entry key=\"M15\" value=\"0.015992123954508306\" />\r\n      <entry key=\"M30\" value=\"0.14467930199568482\" />\r\n      <entry key=\"H1\" value=\"0.6382102396498797\" />\r\n      <entry key=\"H2\" value=\"1.9170174201869514\" />\r\n      <entry key=\"H4\" value=\"4.449456934570226\" />\r\n      <entry key=\"D1\" value=\"12.468481651910372\" />\r\n      <entry key=\"W1\" value=\"15.426668956701237\" />\r\n    </decayedSelected>\r\n    <decayedShown>\r\n      <entry key=\"MS100\" value=\"0.9593004110463033\" />\r\n      <entry key=\"MS500\" value=\"1.1219354286148029\" />\r\n      <entry key=\"S2\" value=\"1.9320028521415307\" />\r\n      <entry key=\"S5\" value=\"3.041686389222574\" />\r\n      <entry key=\"S10\" value=\"3.8159789909598576\" />\r\n      <entry key=\"S30\" value=\"4.547162316665756\" />\r\n      <entry key=\"S60\" value=\"4.765344894100582\" />\r\n      <entry key=\"M2\" value=\"4.885138479996509\" />\r\n      <entry key=\"M5\" value=\"5.164505657342418\" />\r\n      <entry key=\"M10\" value=\"6.329625691291251\" />\r\n      <entry key=\"M15\" value=\"8.366978498505265\" />\r\n      <entry key=\"M30\" value=\"17.971128604753556\" />\r\n      <entry key=\"H1\" value=\"40.95278494397378\" />\r\n      <entry key=\"H2\" value=\"83.94211097020157\" />\r\n      <entry key=\"H4\" value=\"158.6278874320081\" />\r\n      <entry key=\"D1\" value=\"378.94339374786097\" />\r\n      <entry key=\"W1\" value=\"457.8057891354433\" />\r\n    </decayedShown>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3LVRmezWclyWMCiKCR23hJQJV6S\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.ASS 1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.ASS 2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.ASS 3.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.ASS 4.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.ASS 5.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.ASS 6.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.wile loops.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\r\n    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;D:/Py/HOME WORK/LESSON 1/Lec 1&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Py\\HOME WORK\\LEC 1\" />\r\n      <recent name=\"D:\\Py\\HOME WORK\\\" />\r\n      <recent name=\"D:\\Py\\HOME WORK\" />\r\n      <recent name=\"D:\\Py\\HOME WORK\\ Lec 2\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"89b8dc14-0fed-40da-a100-be4ea1dd6935\" name=\"Changes\" comment=\"\" />\r\n      <created>1793537408549</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1793537408549</updated>\r\n      <workItem from=\"1793537409754\" duration=\"48000\" />\r\n      <workItem from=\"1793537464599\" duration=\"215000\" />\r\n      <workItem from=\"1793541391158\" duration=\"189000\" />\r\n      <workItem from=\"1793546697254\" duration=\"2332000\" />\r\n      <workItem from=\"1793566504818\" duration=\"1959000\" />\r\n      <workItem from=\"1793571082152\" duration=\"1566000\" />\r\n      <workItem from=\"1793652339469\" duration=\"1169000\" />\r\n      <workItem from=\"1793682897986\" duration=\"20153000\" />\r\n      <workItem from=\"1793721811805\" duration=\"390000\" />\r\n      <workItem from=\"1793788900076\" duration=\"3265000\" />\r\n      <workItem from=\"1793795900407\" duration=\"2653000\" />\r\n      <workItem from=\"1793823717788\" duration=\"3722000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"I have completed my homework of Lecture 1 and 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793721962844</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793721962845</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"I have completed my homework of Lecture 1 and 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793823456286</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793823456286</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"I have completed my homework of Lecture 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793824039275</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793824039275</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"I have completed my homework of Lecture 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793824269173</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793824269173</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"I have completed my homework of Lecture 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793825427722</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793825427722</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"I have completed Lecture 2 homework\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793825658734</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793825658734</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"I have completed Lecture 2 homework\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793825695530</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793825695530</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"I have completed Lecture 2 homework\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793825950460</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793825950460</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"completed task 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793826566572</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793826566572</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"completed task 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1793827434671</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1793827434671</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"I have completed my homework of Lecture 1 and 2\" />\r\n    <MESSAGE value=\"I have completed my homework of Lecture 2\" />\r\n    <MESSAGE value=\"I have completed Lecture 2 homework\" />\r\n    <MESSAGE value=\"completed task 2\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"completed task 2\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 4.py</url>\r\n          <line>3</line>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Py$ASS_3.coverage\" NAME=\"ASS 3 Coverage Results\" MODIFIED=\"1793825005849\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2\" />\r\n    <SUITE FILE_PATH=\"coverage/Py$ASS_5.coverage\" NAME=\"ASS 5 Coverage Results\" MODIFIED=\"1793792804213\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1\" />\r\n    <SUITE FILE_PATH=\"coverage/Py$wile_loops.coverage\" NAME=\"wile loops Coverage Results\" MODIFIED=\"1793800032902\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Class Work\" />\r\n    <SUITE FILE_PATH=\"coverage/Py$ASS_4.coverage\" NAME=\"ASS 4 Coverage Results\" MODIFIED=\"1793825047176\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2\" />\r\n    <SUITE FILE_PATH=\"coverage/Py$ASS_1.coverage\" NAME=\"ASS 1 Coverage Results\" MODIFIED=\"1793827394626\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2\" />\r\n    <SUITE FILE_PATH=\"coverage/Py$ASS_2.coverage\" NAME=\"ASS 2 Coverage Results\" MODIFIED=\"1793824909891\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2\" />\r\n    <SUITE FILE_PATH=\"coverage/Py$ASS_6.coverage\" NAME=\"ASS 6 Coverage Results\" MODIFIED=\"1793688944950\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Lec 1\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 923ce3c3cfbbaee2d1913a6f76f18a6d61545a15)
++++ b/.idea/workspace.xml	(date 1793875165983)
+@@ -5,6 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="89b8dc14-0fed-40da-a100-be4ea1dd6935" name="Changes" comment="completed task 2">
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 1.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -29,85 +31,92 @@
+     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "history": [
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;history&quot;: [
+     {
+-      "state": "OPEN",
+-      "assignee": "urvapatel0912-cloud",
+-      "author": "urvapatel0912-cloud"
++      &quot;state&quot;: &quot;OPEN&quot;,
++      &quot;assignee&quot;: &quot;urvapatel0912-cloud&quot;,
++      &quot;author&quot;: &quot;urvapatel0912-cloud&quot;
+     }
+   ],
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "urvapatel0912-cloud",
+-    "author": "urvapatel0912-cloud"
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;urvapatel0912-cloud&quot;,
++    &quot;author&quot;: &quot;urvapatel0912-cloud&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+     &quot;url&quot;: &quot;https://github.com/urvapatel0912-cloud/Urva-Respository&quot;,
+     &quot;accountId&quot;: &quot;26ed6611-1f9d-4261-86a7-c250b10b6e21&quot;
+   }
+ }</component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 2.py" root0="SKIP_INSPECTION" />
++    <setting file="file://$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 4.py" root0="FORCE_HIGHLIGHTING" />
++  </component>
+   <component name="NextEditCompletionFeaturesState">
+     <decayedCancelled>
+-      <entry key="MS100" value="1.0000388965035194" />
+-      <entry key="MS500" value="1.1320380748828243" />
+-      <entry key="S2" value="1.937416564940527" />
+-      <entry key="S5" value="3.045472517001917" />
+-      <entry key="S10" value="3.818438833660346" />
+-      <entry key="S30" value="4.5481607712846905" />
+-      <entry key="S60" value="4.765870760528394" />
+-      <entry key="M2" value="4.885408876954955" />
+-      <entry key="M5" value="5.164678254873567" />
+-      <entry key="M10" value="6.328336390741714" />
+-      <entry key="M15" value="8.352484908320593" />
+-      <entry key="M30" value="17.82984087572565" />
+-      <entry key="H1" value="40.31959844836493" />
+-      <entry key="H2" value="82.03128359268369" />
+-      <entry key="H4" value="154.18556578370104" />
+-      <entry key="D1" value="366.4784656180745" />
+-      <entry key="W1" value="442.37975635519257" />
++      <entry key="MS100" value="1.0" />
++      <entry key="MS500" value="1.0" />
++      <entry key="S2" value="1.0000000000000155" />
++      <entry key="S5" value="1.0000078197938753" />
++      <entry key="S10" value="1.0066917894688383" />
++      <entry key="S30" value="1.6188512391342345" />
++      <entry key="S60" value="2.925617964373786" />
++      <entry key="M2" value="4.401150108701321" />
++      <entry key="M5" value="5.95047823055791" />
++      <entry key="M10" value="7.567028891878737" />
++      <entry key="M15" value="9.6929198196947" />
++      <entry key="M30" value="19.153593741766752" />
++      <entry key="H1" value="41.570762433786136" />
++      <entry key="H2" value="83.27541852788204" />
++      <entry key="H4" value="155.47757895095899" />
++      <entry key="D1" value="368.19851080319427" />
++      <entry key="W1" value="444.3314864436055" />
+     </decayedCancelled>
+     <decayedSelected>
+-      <entry key="MS100" value="0.0" />
+-      <entry key="MS500" value="0.0" />
+-      <entry key="S2" value="0.0" />
+-      <entry key="S5" value="4.9E-324" />
+-      <entry key="S10" value="1.369217248550177E-162" />
+-      <entry key="S30" value="1.1104289791614015E-54" />
+-      <entry key="S60" value="1.0537689401198918E-27" />
+-      <entry key="M2" value="3.2461807406857256E-14" />
+-      <entry key="M5" value="4.022991219943974E-6" />
+-      <entry key="M10" value="0.0020061649360630903" />
+-      <entry key="M15" value="0.015992123954508306" />
+-      <entry key="M30" value="0.14467930199568482" />
+-      <entry key="H1" value="0.6382102396498797" />
+-      <entry key="H2" value="1.9170174201869514" />
+-      <entry key="H4" value="4.449456934570226" />
+-      <entry key="D1" value="12.468481651910372" />
+-      <entry key="W1" value="15.426668956701237" />
++      <entry key="MS100" value="0.4033208796110631" />
++      <entry key="MS500" value="0.833931043824964" />
++      <entry key="S2" value="0.9556140695971415" />
++      <entry key="S5" value="0.9820059350757938" />
++      <entry key="S10" value="0.9925368910076381" />
++      <entry key="S30" value="1.1133512409982345" />
++      <entry key="S60" value="1.3396232415052252" />
++      <entry key="M2" value="1.5833116344908382" />
++      <entry key="M5" value="1.8061653252218692" />
++      <entry key="M10" value="1.8996801316924097" />
++      <entry key="M15" value="1.9455745778411537" />
++      <entry key="M30" value="2.1042176225611517" />
++      <entry key="H1" value="2.6088527228446554" />
++      <entry key="H2" value="3.890630398003045" />
++      <entry key="H4" value="6.42467970127114" />
++      <entry key="D1" value="14.458235100883874" />
++      <entry key="W1" value="17.424882631199285" />
+     </decayedSelected>
+     <decayedShown>
+-      <entry key="MS100" value="0.9593004110463033" />
+-      <entry key="MS500" value="1.1219354286148029" />
+-      <entry key="S2" value="1.9320028521415307" />
+-      <entry key="S5" value="3.041686389222574" />
+-      <entry key="S10" value="3.8159789909598576" />
+-      <entry key="S30" value="4.547162316665756" />
+-      <entry key="S60" value="4.765344894100582" />
+-      <entry key="M2" value="4.885138479996509" />
+-      <entry key="M5" value="5.164505657342418" />
+-      <entry key="M10" value="6.329625691291251" />
+-      <entry key="M15" value="8.366978498505265" />
+-      <entry key="M30" value="17.971128604753556" />
+-      <entry key="H1" value="40.95278494397378" />
+-      <entry key="H2" value="83.94211097020157" />
+-      <entry key="H4" value="158.6278874320081" />
+-      <entry key="D1" value="378.94339374786097" />
+-      <entry key="W1" value="457.8057891354433" />
++      <entry key="MS100" value="0.4084396038448848" />
++      <entry key="MS500" value="1.182133913992223" />
++      <entry key="S2" value="1.7237853862109014" />
++      <entry key="S5" value="1.881890351186234" />
++      <entry key="S10" value="1.947651837373897" />
++      <entry key="S30" value="2.7097289020640547" />
++      <entry key="S60" value="4.249003467573018" />
++      <entry key="M2" value="5.973628106994932" />
++      <entry key="M5" value="7.7512588635419615" />
++      <entry key="M10" value="9.463244813747988" />
++      <entry key="M15" value="11.635172496147325" />
++      <entry key="M30" value="21.25355226589949" />
++      <entry key="H1" value="44.17418141734145" />
++      <entry key="H2" value="87.15966309673753" />
++      <entry key="H4" value="161.8950294432012" />
++      <entry key="D1" value="382.65317395310586" />
++      <entry key="W1" value="461.7557299467881" />
+     </decayedShown>
+   </component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="CurrentFile" />
++  </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 4,
+   &quot;fromUser&quot;: false
+@@ -120,33 +129,34 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Python.ASS 1.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.ASS 2.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.ASS 3.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.ASS 4.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.ASS 5.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.ASS 6.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.wile loops.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;D:/Py/HOME WORK/LESSON 1/Lec 1&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ModuleVcsDetector.initialDetectionPerformed": "true",
++    "Python.ASS 1.executor": "Run",
++    "Python.ASS 2.executor": "Run",
++    "Python.ASS 3.executor": "Run",
++    "Python.ASS 4.executor": "Run",
++    "Python.ASS 5.executor": "Run",
++    "Python.ASS 6.executor": "Run",
++    "Python.wile loops.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
++    "codeWithMe.voiceChat.enabledByDefault": "false",
++    "git-widget-placeholder": "main",
++    "git.auto.fetch.suggestion.counter": "1",
++    "last_opened_file_path": "D:/Py",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.jshint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.jshint": "",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
++    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="D:\Py\HOME WORK\LEC 1" />
+@@ -154,6 +164,196 @@
+       <recent name="D:\Py\HOME WORK" />
+       <recent name="D:\Py\HOME WORK\ Lec 2" />
+     </key>
++  </component>
++  <component name="RunManager">
++    <configuration default="true" type="DjangoTestsConfigurationType">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <option name="TARGET" value="" />
++      <option name="SETTINGS_FILE" value="" />
++      <option name="CUSTOM_SETTINGS" value="false" />
++      <option name="USE_OPTIONS" value="false" />
++      <option name="OPTIONS" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="SDK_NAME" value="D:\python\.venv" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <option name="SCRIPT_NAME" value="" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.App">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.Task">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="Python.FlaskServer">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <option name="launchJavascriptDebuger" value="false" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="Tox" factoryName="Tox">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="docs" factoryName="Docutils task">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <option name="RUN_TOOL" value="" />
++      <option name="docutils_input_file" value="" />
++      <option name="docutils_output_file" value="" />
++      <option name="docutils_params" value="" />
++      <option name="docutils_task" value="" />
++      <option name="docutils_open_in_browser" value="false" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="docs" factoryName="Sphinx task">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <option name="RUN_TOOL" value="" />
++      <option name="docutils_input_file" value="" />
++      <option name="docutils_output_file" value="" />
++      <option name="docutils_params" value="" />
++      <option name="docutils_task" value="" />
++      <option name="docutils_open_in_browser" value="false" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="tests" factoryName="Autodetect">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <option name="_new_additionalArguments" value="&quot;&quot;" />
++      <option name="_new_target" value="&quot;&quot;" />
++      <option name="_new_targetType" value="&quot;PATH&quot;" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="tests" factoryName="Doctests">
++      <module name="Py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="DEBUG_JUST_MY_CODE" value="false" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="RUN_TOOL" value="" />
++      <option name="SCRIPT_NAME" value="" />
++      <option name="CLASS_NAME" value="" />
++      <option name="METHOD_NAME" value="" />
++      <option name="FOLDER_NAME" value="" />
++      <option name="TEST_TYPE" value="TEST_SCRIPT" />
++      <option name="PATTERN" value="" />
++      <option name="USE_PATTERN" value="false" />
++      <method v="2" />
++    </configuration>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+@@ -180,7 +380,11 @@
+       <workItem from="1793721811805" duration="390000" />
+       <workItem from="1793788900076" duration="3265000" />
+       <workItem from="1793795900407" duration="2653000" />
+-      <workItem from="1793823717788" duration="3722000" />
++      <workItem from="1793823717788" duration="4104000" />
++      <workItem from="1793827854382" duration="30000" />
++      <workItem from="1793830008955" duration="2340000" />
++      <workItem from="1793832389259" duration="389000" />
++      <workItem from="1793874525768" duration="639000" />
+     </task>
+     <task id="LOCAL-00001" summary="I have completed my homework of Lecture 1 and 2">
+       <option name="closed" value="true" />
+@@ -262,7 +466,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1793827434671</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00011" summary="completed task 2">
++      <option name="closed" value="true" />
++      <created>1793827467720</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1793827467720</updated>
++    </task>
++    <task id="LOCAL-00012" summary="completed task 2">
++      <option name="closed" value="true" />
++      <created>1793827476600</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1793827476600</updated>
++    </task>
++    <option name="localTasksCounter" value="13" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -286,24 +506,13 @@
+     <MESSAGE value="completed task 2" />
+     <option name="LAST_COMMIT_MESSAGE" value="completed task 2" />
+   </component>
+-  <component name="XDebuggerManager">
+-    <breakpoint-manager>
+-      <breakpoints>
+-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+-          <url>file://$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 4.py</url>
+-          <line>3</line>
+-          <option name="timeStamp" value="3" />
+-        </line-breakpoint>
+-      </breakpoints>
+-    </breakpoint-manager>
+-  </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793825005849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
++    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793830162900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+     <SUITE FILE_PATH="coverage/Py$ASS_5.coverage" NAME="ASS 5 Coverage Results" MODIFIED="1793792804213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
+     <SUITE FILE_PATH="coverage/Py$wile_loops.coverage" NAME="wile loops Coverage Results" MODIFIED="1793800032902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
+-    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793825047176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+-    <SUITE FILE_PATH="coverage/Py$ASS_1.coverage" NAME="ASS 1 Coverage Results" MODIFIED="1793827394626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+-    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793824909891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+-    <SUITE FILE_PATH="coverage/Py$ASS_6.coverage" NAME="ASS 6 Coverage Results" MODIFIED="1793688944950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lec 1" />
++    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793874738330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
++    <SUITE FILE_PATH="coverage/Py$ASS_1.coverage" NAME="ASS 1 Coverage Results" MODIFIED="1793875093816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
++    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793832765839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
++    <SUITE FILE_PATH="coverage/Py$ASS_6.coverage" NAME="ASS 6 Coverage Results" MODIFIED="1793832515809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 923ce3c3cfbbaee2d1913a6f76f18a6d61545a15)
++++ b/.idea/vcs.xml	(date 1793832389505)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
