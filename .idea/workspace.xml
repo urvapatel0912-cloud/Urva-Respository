@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89b8dc14-0fed-40da-a100-be4ea1dd6935" name="Changes" comment="i haqve some update in assigment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +239,7 @@
       <workItem from="1793788900076" duration="3265000" />
       <workItem from="1793795900407" duration="2653000" />
       <workItem from="1793823717788" duration="3722000" />
-      <workItem from="1793876599961" duration="2000000" />
+      <workItem from="1793876599961" duration="3287000" />
     </task>
     <task id="LOCAL-00001" summary="I have completed my homework of Lecture 1 and 2">
       <option name="closed" value="true" />
@@ -361,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793878141232</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="i haqve some update in assigment">
+      <option name="closed" value="true" />
+      <created>1793878612926</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1793878612926</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,12 +397,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="i haqve some update in assigment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793876908482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793879154971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_5.coverage" NAME="ASS 5 Coverage Results" MODIFIED="1793792804213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
     <SUITE FILE_PATH="coverage/Py$wile_loops.coverage" NAME="wile loops Coverage Results" MODIFIED="1793800032902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793877493245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793879157761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_1.coverage" NAME="ASS 1 Coverage Results" MODIFIED="1793875167763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
-    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793876893166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793879131977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_6.coverage" NAME="ASS 6 Coverage Results" MODIFIED="1793832515809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
   </component>
 </project>
