@@ -1,4 +1,4 @@
-user=input("Enter your class: ")
+user=input("Enter your class: ").upper()
 if user == "lux":
     print("You have upper-deck cabin with a balcony.")
 

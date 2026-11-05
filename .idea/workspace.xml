@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b8dc14-0fed-40da-a100-be4ea1dd6935" name="Changes" comment="i haqve some update" />
+    <list default="true" id="89b8dc14-0fed-40da-a100-be4ea1dd6935" name="Changes" comment="i haqve some update in assigment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +38,7 @@
       &quot;author&quot;: &quot;urvapatel0912-cloud&quot;
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;urvapatel0912-cloud&quot;,
-    &quot;author&quot;: &quot;urvapatel0912-cloud&quot;
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -47,63 +46,66 @@
     &quot;accountId&quot;: &quot;26ed6611-1f9d-4261-86a7-c250b10b6e21&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 2.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000014013" />
-      <entry key="S5" value="1.0000535898201703" />
-      <entry key="S10" value="1.020171287528122" />
-      <entry key="S30" value="2.166118636453598" />
-      <entry key="S60" value="4.587686175339375" />
-      <entry key="M2" value="7.64969616393888" />
-      <entry key="M5" value="11.012422036378586" />
-      <entry key="M10" value="13.420663923047849" />
-      <entry key="M15" value="15.794906560068581" />
-      <entry key="M30" value="25.419256586256488" />
-      <entry key="H1" value="47.86765469061142" />
-      <entry key="H2" value="89.61133542123689" />
-      <entry key="H4" value="161.87498602196442" />
-      <entry key="D1" value="374.9651671062623" />
-      <entry key="W1" value="451.2913532777815" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000018" />
+      <entry key="S30" value="1.0000132200279641" />
+      <entry key="S60" value="1.006479020964809" />
+      <entry key="M2" value="1.2615739965489272" />
+      <entry key="M5" value="4.240004508805197" />
+      <entry key="M10" value="9.219889213786939" />
+      <entry key="M15" value="13.105846094727601" />
+      <entry key="M30" value="24.133431871008174" />
+      <entry key="H1" value="47.03795115499265" />
+      <entry key="H2" value="89.25201030799673" />
+      <entry key="H4" value="162.15088438820752" />
+      <entry key="D1" value="378.75599460728307" />
+      <entry key="W1" value="456.911296041339" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="8.59513286369041E-168" />
-      <entry key="S30" value="2.0484130382101047E-56" />
-      <entry key="S60" value="1.4312278079362838E-28" />
-      <entry key="M2" value="1.1963393364494396E-14" />
-      <entry key="M5" value="2.698620152180897E-6" />
-      <entry key="M10" value="0.0016430961298732217" />
-      <entry key="M15" value="0.013999215708762551" />
-      <entry key="M30" value="0.13536462482475617" />
-      <entry key="H1" value="0.6173239940868198" />
-      <entry key="H2" value="1.8853880675966124" />
-      <entry key="H4" value="4.412597911092559" />
-      <entry key="D1" value="12.451207243145445" />
-      <entry key="W1" value="15.423613882560907" />
+      <entry key="S10" value="1.0322625322204448E-189" />
+      <entry key="S30" value="1.0106405544287926E-63" />
+      <entry key="S60" value="3.179057335797501E-32" />
+      <entry key="M2" value="1.7829911205043916E-16" />
+      <entry key="M5" value="5.017179951342992E-7" />
+      <entry key="M10" value="7.084707623804157E-4" />
+      <entry key="M15" value="0.007989930686909993" />
+      <entry key="M30" value="0.1022644853478022" />
+      <entry key="H1" value="0.5365657952239398" />
+      <entry key="H2" value="1.757744175191626" />
+      <entry key="H4" value="4.260610287899291" />
+      <entry key="D1" value="12.378680998271575" />
+      <entry key="W1" value="15.410747437964275" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9330329915368074" />
-      <entry key="MS500" value="0.9862327044933592" />
-      <entry key="S2" value="0.996540262829264" />
-      <entry key="S5" value="0.9986681771858527" />
-      <entry key="S10" value="1.0194634916885046" />
-      <entry key="S30" value="2.165601348323663" />
-      <entry key="S60" value="4.587134736974446" />
-      <entry key="M2" value="7.649237919538468" />
-      <entry key="M5" value="11.012120577344383" />
-      <entry key="M10" value="13.421618471816682" />
-      <entry key="M15" value="15.807524336466484" />
-      <entry key="M30" value="25.551412114345677" />
-      <entry key="H1" value="48.48010113979818" />
-      <entry key="H2" value="91.49062640421613" />
-      <entry key="H4" value="166.28050315135042" />
-      <entry key="D1" value="387.4128249808141" />
-      <entry key="W1" value="466.71433099986587" />
+      <entry key="MS100" value="3.6641959697914434E-7" />
+      <entry key="MS500" value="0.051617354058482494" />
+      <entry key="S2" value="0.47664927264407947" />
+      <entry key="S5" value="0.7434976049483444" />
+      <entry key="S10" value="0.862263071775863" />
+      <entry key="S30" value="0.9518145626717982" />
+      <entry key="S60" value="0.9817935530773567" />
+      <entry key="M2" value="1.2438230995133042" />
+      <entry key="M5" value="4.214964039501736" />
+      <entry key="M10" value="9.196769061981993" />
+      <entry key="M15" value="13.09341143956729" />
+      <entry key="M30" value="24.220923143557627" />
+      <entry key="H1" value="47.5633422446682" />
+      <entry key="H2" value="91.00039387399686" />
+      <entry key="H4" value="166.40276497689803" />
+      <entry key="D1" value="391.13082363329283" />
+      <entry key="W1" value="472.3213614727335" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -153,7 +155,38 @@
       <recent name="D:\Py\HOME WORK\ Lec 2" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Male" />
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration name="ASS 3" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="D:\python\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,6 +239,7 @@
       <workItem from="1793788900076" duration="3265000" />
       <workItem from="1793795900407" duration="2653000" />
       <workItem from="1793823717788" duration="3722000" />
+      <workItem from="1793876599961" duration="2000000" />
     </task>
     <task id="LOCAL-00001" summary="I have completed my homework of Lecture 1 and 2">
       <option name="closed" value="true" />
@@ -303,7 +337,31 @@
       <option name="project" value="LOCAL" />
       <updated>1793875408068</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="i haqve some update ass">
+      <option name="closed" value="true" />
+      <created>1793875482908</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1793875482908</updated>
+    </task>
+    <task id="LOCAL-00014" summary="i haqve some update in assigment">
+      <option name="closed" value="true" />
+      <created>1793878129973</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1793878129973</updated>
+    </task>
+    <task id="LOCAL-00015" summary="i haqve some update in assigment">
+      <option name="closed" value="true" />
+      <created>1793878141232</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1793878141232</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,26 +384,17 @@
     <MESSAGE value="I have completed Lecture 2 homework" />
     <MESSAGE value="completed task 2" />
     <MESSAGE value="i haqve some update" />
-    <option name="LAST_COMMIT_MESSAGE" value="i haqve some update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2/ASS 4.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="i haqve some update ass" />
+    <MESSAGE value="i haqve some update in assigment" />
+    <option name="LAST_COMMIT_MESSAGE" value="i haqve some update in assigment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793830162900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_3.coverage" NAME="ASS 3 Coverage Results" MODIFIED="1793876908482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_5.coverage" NAME="ASS 5 Coverage Results" MODIFIED="1793792804213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
     <SUITE FILE_PATH="coverage/Py$wile_loops.coverage" NAME="wile loops Coverage Results" MODIFIED="1793800032902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class Work" />
-    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793874738330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_4.coverage" NAME="ASS 4 Coverage Results" MODIFIED="1793877493245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_1.coverage" NAME="ASS 1 Coverage Results" MODIFIED="1793875167763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
-    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793832765839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
+    <SUITE FILE_PATH="coverage/Py$ASS_2.coverage" NAME="ASS 2 Coverage Results" MODIFIED="1793876893166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 2" />
     <SUITE FILE_PATH="coverage/Py$ASS_6.coverage" NAME="ASS 6 Coverage Results" MODIFIED="1793832515809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HOME WORK/LESSON 1/Lec 1" />
   </component>
 </project>
