@@ -3,7 +3,7 @@
 
 NUM=1
 while NUM<=1000:
-    if(NUM%3==0):
+    if NUM%3==0 :
         print(NUM)
     NUM=NUM+1
 

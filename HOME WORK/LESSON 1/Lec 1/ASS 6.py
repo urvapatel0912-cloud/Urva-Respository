@@ -1,3 +1,4 @@
+
 #Write a program that generates two random combinations of numbers for a combination lock:
 #A 3-digit code where each number is between 0 and 9.
 #A 4-digit code where each number is between 1 and 6.

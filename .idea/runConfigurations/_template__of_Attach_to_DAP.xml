@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="PythonDapAttachConfiguration" activateToolWindowBeforeRun="false">
+    <pathMappings>
+      <mapping local="$PROJECT_DIR$" remote="." />
+    </pathMappings>
+    <option name="remoteRoot" />
+    <method v="2" />
+  </configuration>
+</component>
